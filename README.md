@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @freyazhixiaofu
-- 👀 I have a strong interest in AI, NLP, Computer Vision, Software Security, Federated Learning, and Linguistics.
+- 👀 I have a strong interest in NLP, AI, Computer Vision, Federated Learning, and Linguistics.
 - 🌱 I’m currently studying Computer Science and Data Science at the University of Toronto.
 - 📫 You can reach me at zx.fu@mail.utoronto.ca.
 
