@@ -5,7 +5,7 @@
 - 📫 You can reach me at zx.fu@mail.utoronto.ca.
 
 - 🔗 Check out my CSC207 group project: a user-friendly second-hand exchange platform built with Clean Architecture principles, featuring online multi-user synchronous interactions and an impressive UI design!
-https://github.com/Enmingzz/CSC207_CompileError_group_project
+
 
 <!---
 freyazhixiaofu/freyazhixiaofu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
